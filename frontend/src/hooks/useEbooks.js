@@ -8,6 +8,7 @@ import {sample} from "utils/functions";
 // ...your decision
 
 const EBOOKS = [
+    "Rikri: GIMMICK: Hidden Speed CHang e You must Groove with the RHythm to Dretect whne the sprdee ds thchangtewess qwiokkkl opfccfurefahvujhuyjfhneedjuafc",
     "Klyzx: CV why are you streaming a green line for the entire day",
     "fizzd: banana detection",
     "SpikedJackson: First it was vegetables, now all out war",
